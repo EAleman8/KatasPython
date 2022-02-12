@@ -1,4 +1,4 @@
 # Launchx1
 SemanaPrueba
 
-Documentación y solución de Katas. Python
+Documentación y solución de Katas. Python.
